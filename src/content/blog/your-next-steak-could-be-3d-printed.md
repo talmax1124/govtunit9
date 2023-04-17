@@ -10,6 +10,7 @@ tags:
   - post
   - news
   - featured
+  - 'true'
 image: https://d33wubrfki0l68.cloudfront.net/7655236f41366af27f32c09f9f635e7db690ee96/4ad94/assets/blog/prc_156196834_1593589638.jpg.webp
 ---
 

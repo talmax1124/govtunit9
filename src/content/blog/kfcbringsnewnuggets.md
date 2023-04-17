@@ -8,6 +8,7 @@ publishDate: "2023-01-08"
 tags:
   - post
   - featured
+  - 'true'
 image: https://ewscripps.brightspotcdn.com/dims4/default/7671412/2147483647/strip/true/crop/500x281+0+26/resize/1280x720!/quality/90/?url=https%3A%2F%2Fwww.simplemost.com%2Fwp-content%2Fuploads%2F2022%2F07%2FKFC-nuggets-500x333.png
 ---
 

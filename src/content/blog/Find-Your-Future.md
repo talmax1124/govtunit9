@@ -10,6 +10,7 @@ image: https://www.ucf.edu/files/2012/08/main-campus.jpg
 imageAlt: An image of the University of Florida
 tags:
   - College and Career
+  - 'true'
 ---
 
 College is one of the biggest concerns for any high schooler, being one of the most stressful things to have in mind. To many, the idea of getting into a college without the assistance of financial help may seem impossible, but with the help of this article, one could dramatically increase their chances of getting recognized.

@@ -8,6 +8,7 @@ publishDate: "2022-11-08"
 tags:
   - post
   - featured
+  - 'true'
 image: https://cdn.nba.com/teams/uploads/sites/1610612744/2023/04/1280x720-2023-04-04T164051.246.jpg
 ---
 

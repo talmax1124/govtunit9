@@ -7,6 +7,7 @@ publishDate: "2023-02-08"
 tags:
   - post
   - featured
+  - 'false'
 image: "https://media.cnn.com/api/v1/images/stellar/prod/191005095346-01-snoop-dogg-file.jpg?q=w_3000,h_1687,x_0,y_0,c_fill"
 ---
 
@@ -14,7 +15,7 @@ SNOOP SNOOP DOGGGGGGGGG
 
 <!-- Create a fake news article about his divorce -->
 
-Snoop Dogg is getting divorced from his wife Shante Broadus after 23 years of marriage. The couple has been married since 1997 and have two children.
+Snoop Dogg is getting divorced afrom his wife Shante Broadus after 23 years of marriage. The couple has been married since 1997 and have two children.
 
 Snoop Dogg and Shante Broadus File for Divorce
 
